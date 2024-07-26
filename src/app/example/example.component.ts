@@ -36,7 +36,7 @@ export class ExampleComponent implements OnInit {
 
     //  this.mySub = obv.subscribe(res => console.log(res))
 
-     console.log(this.products);
+     console.log(this.products.length);
      
   }
 
